@@ -9,4 +9,5 @@
 - OpenSans [link](https://pub.dev/packages/google_fonts)
 
 ### Screenshots of App
-(/SS1.png)
+
+![App UI](/SS1.png)
