@@ -1,1 +1,1 @@
-# ExpenseTracker_App
+# Daily Expenses Tracker App Developed in Flutter.
