@@ -10,4 +10,4 @@
 
 ### Screenshots of App
 
-![App UI](/SS1.png)
+![App UI](/UI.png)
