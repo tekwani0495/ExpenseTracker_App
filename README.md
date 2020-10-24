@@ -1,1 +1,1 @@
-# Daily Expenses Tracker App Developed in Flutter.
+# Daily Expense Tracker App Developed in Flutter.
